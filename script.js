@@ -47,7 +47,7 @@ document.getElementById("hangoutButton").addEventListener("click", function() {
 
     // Show the alert message after a short delay
     setTimeout(function() {
-        alert("I'm glad u finally admitted that");
+        alert("I'm glad u finally admitted that!");
     }, 500); // Show the alert message after 500 milliseconds
 });
 
